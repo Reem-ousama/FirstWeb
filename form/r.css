@@ -1,0 +1,11 @@
+.home{
+    background-image: url(resturant.jpg);
+    background-size: 100% 100%;
+
+}
+.home-caption{
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+
+}
